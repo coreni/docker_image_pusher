@@ -5,14 +5,14 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 lihaixin/webssh2:ssh
-jetbrains/projector-clion:latest
-jetbrains/projector-datagrip:latest
-jetbrains/projector-goland:latest
-jetbrains/projector-idea-c:latest
-jetbrains/projector-idea-u:latest
-jetbrains/projector-phpstorm:latest
-jetbrains/projector-pycharm-c:latest
-jetbrains/projector-pycharm-p:latest
-jetbrains/projector-rider:latest
-jetbrains/projector-rubymine:latest
-jetbrains/projector-webstorm:latest
+registry.jetbrains.team/p/prj/containers/projector-clion:latest
+registry.jetbrains.team/p/prj/containers/projector-datagrip:latest
+registry.jetbrains.team/p/prj/containers/projector-goland:latest
+registry.jetbrains.team/p/prj/containers/projector-idea-c:latest
+registry.jetbrains.team/p/prj/containers/projector-idea-u:latest
+registry.jetbrains.team/p/prj/containers/projector-phpstorm:latest
+registry.jetbrains.team/p/prj/containers/projector-pycharm-c:latest
+registry.jetbrains.team/p/prj/containers/projector-pycharm-p:latest
+registry.jetbrains.team/p/prj/containers/projector-rider:latest
+registry.jetbrains.team/p/prj/containers/projector-rubymine:latest
+registry.jetbrains.team/p/prj/containers/projector-webstorm:latest
