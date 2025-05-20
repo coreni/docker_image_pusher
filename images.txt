@@ -1,1 +1,1 @@
-niyang666/spark:3.1.2.2
+metabase/metabase
