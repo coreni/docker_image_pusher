@@ -1,3 +1,4 @@
+deluan/navidrome:latest
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.0.0
 elasticsearch:7.10.1
 apache/rocketmq:5.3.3
