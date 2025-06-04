@@ -1,2 +1,4 @@
-metabase/metabase
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.0.0
+elasticsearch:7.10.1
+apache/rocketmq:5.3.3
+mongodb/mongodb-community-server:5.0.17-ubuntu2004
