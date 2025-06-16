@@ -1,4 +1,4 @@
-ghcr.io/bitmagnet-io/bitmagnet:latest
+ghcr.io/bitmagnet-io/bitmagnet:latest --platform=linux/amd64
 postgres:16-alpine
 xhofe/alist:latest
 deluan/navidrome:latest
