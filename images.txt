@@ -1,5 +1,5 @@
-ghcr.io/bitmagnet-io/bitmagnet:latest
-postgres:16-alpine  --platform=linux/amd64
+ghcr.io/bitmagnet-io/bitmagnet:latest  --platform linux/amd64
+postgres:16-alpine 
 xhofe/alist:latest
 deluan/navidrome:latest
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.0.0
