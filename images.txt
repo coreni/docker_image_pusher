@@ -1,1 +1,1 @@
-starrocks/artifacts-ubuntu:3.5.2 --platform=linux/amd64
+starrocks/artifacts-ubuntu:3.5.2
