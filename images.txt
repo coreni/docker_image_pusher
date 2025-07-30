@@ -1,1 +1,2 @@
-starrocks/artifacts-ubuntu:3.5.2
+starrocks/fe-ubuntu:3.5-latest
+starrocks/cn-ubuntu:3.5-latest
