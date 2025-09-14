@@ -1,2 +1,1 @@
-11notes/kms:1.0.3
-11notes/kms-gui:1.0.3
+flink:1.15.0-scala_2.12-java11
