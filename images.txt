@@ -1,1 +1,4 @@
-zookeeper:3.8.3-jre-11
+apache/dolphinscheduler-api:3.3.1
+apache/dolphinscheduler-master:3.3.1
+apache/dolphinscheduler-worker:3.3.1
+apache/dolphinscheduler-alert-server:3.3.1
