@@ -1,1 +1,1 @@
-openlistteam/openlist:latest-aio
+encircle360-oss/rclone-samba-server:latest
