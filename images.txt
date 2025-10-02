@@ -1,1 +1,1 @@
-encircle360-oss/rclone-samba-server:latest
+registry.gitlab.com/encircle360-oss/rclone-samba-server:latest
