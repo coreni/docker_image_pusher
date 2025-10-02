@@ -1,1 +1,1 @@
-node:16-bullseye
+openlistteam/openlist:latest-aio
