@@ -1,1 +1,1 @@
-registry.gitlab.com/encircle360-oss/rclone-samba-server:latest
+eclipse-temurin:8-jdk
