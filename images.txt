@@ -1,1 +1,1 @@
-python:2.6
+omahoco1/alpine-java-python:latest
