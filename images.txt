@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk
+python:2.6
