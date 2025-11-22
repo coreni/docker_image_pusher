@@ -1,1 +1,1 @@
-omahoco1/alpine-java-python:latest
+openjdk:8-jdk-alpine
