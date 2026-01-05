@@ -1,2 +1,1 @@
-osixia/openldap:latest
-osixia/phpldapadmin:latest
+cloudflare/cloudflared:latest
