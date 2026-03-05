@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+dadoum/anisette-v3-server:latest
