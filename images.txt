@@ -1,1 +1,3 @@
-dockage/mailcatcher:latest
+hoppscotch/hoppscotch-frontend:latest
+hoppscotch/hoppscotch-backend:latest
+hoppscotch/hoppscotch-admin:latest
