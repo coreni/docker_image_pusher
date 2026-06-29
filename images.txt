@@ -1,3 +1,1 @@
-hoppscotch/hoppscotch-frontend:latest
-hoppscotch/hoppscotch-backend:latest
-hoppscotch/hoppscotch-admin:latest
+ghcr.io/zseven-w/openpencil-full:latest
